@@ -1,3 +1,11 @@
+url: "https://toptstudio.github.io"
+baseurl: "/N64-Mobile-Controller"
+
 google_site_verification: ViTr8FLhE26he7eZkgC0wPBn3iAiixocOQ7C7f8VST4
 
 markdown: none
+
+noindex: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
